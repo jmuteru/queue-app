@@ -13,3 +13,4 @@ export const parseJson = async (res: Response, url: string) => {
   return res.json();
 };
 
+
